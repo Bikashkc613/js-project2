@@ -1,0 +1,85 @@
+.rules{
+    display: flex;
+    gap:4rem;
+    margin: 2rem;
+    font-family: arial;
+    margin-bottom: 2rem;
+    
+}
+
+.rbat{
+    background-color: aqua;
+    
+    height:9rem;
+    width:12rem;
+    font-size: 1.1rem;
+    padding-left :2rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+
+    
+}
+
+
+.rball{
+    background-color: rgb(43, 226, 134);
+    height:9rem;
+    width:12rem;
+    font-size: 1.1rem;
+    padding-left: 3rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+
+.rstump{
+    background-color: rgb(43, 226, 186);
+    height:9rem;
+    width:12rem;
+    font-size: 1.1rem;
+    padding-left: 3rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+
+
+.container-first{
+    display: flex;
+    gap:4rem;
+    margin-left:30rem;
+    align-items: center;
+    justify-content: center;
+    height:10rem;
+    width:10rem;
+    
+}
+
+.container-first img{
+    height: 5rem;
+    width: 5rem;
+    object-fit: cover;
+
+}
+
+
+.container-second{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    gap:1.1rem;
+    background-color: chartreuse;
+    padding:2rem;
+}
+
+.container-second button{
+    background-color: greenyellow;
+    height: 3rem;
+    width:10rem;
+    padding:1.1rem;
+    font-size: 1.3rem;
+    border-radius: 50rem;
+    text-align: center;
+}
